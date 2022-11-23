@@ -12,7 +12,7 @@
 
 본 레포지토리에서는 프론트앤드(클라이언트)인 안드로이드(Android Studio)를 주로 다룹니다.
 
-
+<br/><br/>
 ## 프로젝트 유스케이스
 
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/108053426/203484509-85e731d6-2218-46fb-afe4-b2c619843e70.png">
