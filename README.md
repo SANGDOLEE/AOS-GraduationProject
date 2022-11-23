@@ -19,7 +19,8 @@
 
 
 ## 프로젝트 프로세스 설계
-<img width="224" alt="image" src="https://user-images.githubusercontent.com/108053426/203484296-7c317dbe-4d9b-48e5-9c29-bed6ffbef941.png">
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/108053426/203484388-bc5adef6-ddc9-418f-978f-a4c2ee5d5169.png">
+
 
 
 
