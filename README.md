@@ -9,15 +9,18 @@
 그 영향으로 영화시청 시간이 많아짐에 따라 영화콘텐츠에 대한 추천시스템 프로젝트입니다.
 
 해당 프로젝트는 MBTI에 초점을 두어 성격유형별로 개인에게 영화를 추천해주는 어플리케이션 프로젝트이며,
-본 레포지토리에서는 클라이언트인 안드로이드(Android Studio)를 주로 다룹니다.
+
+본 레포지토리에서는 프론트앤드(클라이언트)인 안드로이드(Android Studio)를 주로 다룹니다.
 
 
 ## 프로젝트 유스케이스
-![image](https://user-images.githubusercontent.com/108053426/203478009-c010a835-05c3-49fd-ba37-7314931cdbf6.png)
+<img width="256" alt="image" src="https://user-images.githubusercontent.com/108053426/203484203-2c0d67e0-b368-4c2f-99f8-44f652117fdc.png">
 
 
-## 프로세스 설계
-![image](https://user-images.githubusercontent.com/108053426/203478141-95288904-243a-42f3-95b7-608359ea50ba.png)
+
+## 프로젝트 프로세스 설계
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/108053426/203484296-7c317dbe-4d9b-48e5-9c29-bed6ffbef941.png">
+
 
 
 ## 프로젝트 화면 설계
