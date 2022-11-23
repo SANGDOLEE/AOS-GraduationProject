@@ -14,12 +14,15 @@
 
 
 ## 프로젝트 유스케이스
-<img width="256" alt="image" src="https://user-images.githubusercontent.com/108053426/203484203-2c0d67e0-b368-4c2f-99f8-44f652117fdc.png">
+
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/108053426/203484509-85e731d6-2218-46fb-afe4-b2c619843e70.png">
+
 
 
 
 ## 프로젝트 프로세스 설계
-<img width="344" alt="image" src="https://user-images.githubusercontent.com/108053426/203484388-bc5adef6-ddc9-418f-978f-a4c2ee5d5169.png">
+
+<img width="408" alt="image" src="https://user-images.githubusercontent.com/108053426/203484449-197f98ca-86e3-409f-aa13-cafabc9ec9a1.png">
 
 
 
