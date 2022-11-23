@@ -21,9 +21,7 @@
 
 ## 프로젝트 화면 설계
 1. 실행 및 로그인/회원가입 화면
-<img width="279" alt="image" src="https://user-images.githubusercontent.com/108053426/203480119-a3904bbc-8419-4b5a-862e-c89c5a386d71.png">
-<img width="279" alt="image" src="https://user-images.githubusercontent.com/108053426/203480194-be6f203f-986d-45b0-9162-f4d225626b2b.png">
-<img width="281" alt="image" src="https://user-images.githubusercontent.com/108053426/203480228-79d3d13e-53d8-4d5c-b619-1083c9ce3cd3.png">
+<img width="279" alt="image" src="https://user-images.githubusercontent.com/108053426/203480119-a3904bbc-8419-4b5a-862e-c89c5a386d71.png"><img width="279" alt="image" src="https://user-images.githubusercontent.com/108053426/203480194-be6f203f-986d-45b0-9162-f4d225626b2b.png"><img width="281" alt="image" src="https://user-images.githubusercontent.com/108053426/203480228-79d3d13e-53d8-4d5c-b619-1083c9ce3cd3.png">
 
 2. MBTI 선택 및 검사 화면
 <img width="280" alt="image" src="https://user-images.githubusercontent.com/108053426/203480263-b1338e46-2dde-4fa0-8da9-8e66307093e8.png">
